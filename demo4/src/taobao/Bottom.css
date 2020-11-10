@@ -1,0 +1,80 @@
+.bottom1{
+    overflow-x: hidden;
+}
+.btn{
+    position: relative;
+    top:20px;
+    width:100%;
+   
+}
+.btn ul{
+    margin-left: -10px;
+}
+.btn ul li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.back{
+    position: absolute;
+    top:20px;
+    left:15px;
+    height:20px;
+    width:40px;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    opacity: 0.6;
+}
+.back p{
+    width: 40px;
+    line-height: 20px;
+    color: #ffffff;
+
+}
+.image{
+    width:100%;
+    height:350px;
+}
+.image img{
+    width:100%;
+    height:350px;
+}
+.btn1 p{
+    font-size: 10px;
+    color:#aaa;
+}
+.btn1 i{
+    color:#aaa;
+    font-size: 10px;
+}
+.btn2{
+    border:1px solid #000;
+    background-color:red;
+    width:120px;
+    height:30px;
+    float: left;
+    margin-top: 200px;
+    margin-left: 70px;
+    border-radius: 20px 0 0 20px;
+}
+.btn2 p{
+    color:white;
+    padding-left: 15px;
+    margin-top: 7px;
+}
+.btn3{
+    border:1px solid #000;
+    background-color: red;
+    width:120px;
+    height:30px;
+    float: left;
+    margin-top: -30px;
+    margin-left: 190px;
+    border-radius: 0 20px 20px 0;
+}
+.btn3 p{
+    color:white;
+    padding-left: 15px;
+    margin-top: 7px;
+}

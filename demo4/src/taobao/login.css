@@ -1,0 +1,70 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.login{
+    width: 100%;
+    height: 644px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+.top{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: #cccccc;
+}
+h2{
+    width: 80%;
+    float: left;
+}
+.cloth{
+    width: 10%;
+    float: left;
+    border: 0px;
+    line-height: 40px;
+    background-color: #cccccc;
+
+}
+
+.number{
+    width: 90%;
+    height: 40px;
+    margin-left: 5%;
+    margin-top: 100px;
+    border: 0px;
+    border-bottom: red solid 1px;
+}
+.password{
+    width: 90%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 5%;
+    border: 0px;
+    border-bottom: red solid 1px;
+}
+.logo{
+    width: 20%;
+    margin-left: 40%;
+}
+.btu{
+    width: 80%;
+    height: 40px;
+    float: left;
+    margin-top: 100px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    line-height: 40px;
+    margin-left: 10%;
+    background-color: red;
+    border-radius: 20px;
+}
+.login1 p{
+    width: 40%;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    text-align: center;
+}
